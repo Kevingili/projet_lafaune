@@ -1,0 +1,42 @@
+h1
+{
+	text-align: center;
+}
+#bloc_accueil, header h1
+{
+	text-align: left;
+
+}
+#bloc_accueil
+{
+	border: 1px solid navy;
+    
+
+}
+nav
+{
+    float: left;
+    width: 165px;
+    border: 1px solid black;
+}
+
+section
+{
+    margin-left: 170px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+#copyright
+{
+	text-align: center;
+}
+img 
+{
+    width: 250px;
+}
+.accueilimg
+{
+    width: 350px;
+}
